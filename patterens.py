@@ -1,5 +1,5 @@
 n=int(input("no of rows="))
-a=int(input("type 1 for simple pattern and 0 for revers pattern="))
+a=int(input("chose any number between 0 to 4 ="))
 if (a==0):
     for i in range(n + 1):
         for j in range(n):
